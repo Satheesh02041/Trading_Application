@@ -1,0 +1,16 @@
+/* user_home.css */
+
+.product__button {
+    background-color: #f0c14b; /* Amazon's button color */
+    color: #111; /* Text color */
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .product__button:hover {
+    background-color: #d89e00; /* Darker color on hover */
+  }
+  
